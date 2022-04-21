@@ -56,6 +56,7 @@
 -   Create a few helpful custom hooks
 
 ## React Router (V5)
+There have been many changes between v5 and v6. Best approach here probably is  to just read the docs of React Router to identify basic topics to master.
 ### Patterns in React Router
 -   Describe how router URL parameters work
 -   Understand Switch and when to use/not use it
