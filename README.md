@@ -5,3 +5,5 @@ The objective is to help me track important SE topics and provide a birds-eye vi
 [[OOP Goals]]
 [[How the Web Works and AJAX]]
 [[Flask Goals]]
+[[S. Goals and summary of content]]
+[[Express Goals]]
